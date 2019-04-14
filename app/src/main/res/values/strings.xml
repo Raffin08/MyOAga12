@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MyOAga1.2</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">NioiEIjKfYVQIuH3GYaVqXdiiq5lbmhElBXQAw0t</string>
+    <string name="back4app_client_key">URf1FPJ7JRRHILN1bwWqkiPCOpiDBmL7CvuNX3l1</string>
+    <string name="title_activity_location">Map</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
